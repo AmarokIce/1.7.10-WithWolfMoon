@@ -4,7 +4,9 @@
 
 If you should English language, I's sorry but the wiki are still in build.
 
-這個Wiki正在逐步完善 ~~，如果一些超鏈接點了但是沒有反應，說明咩狼正在摸鳳梨。~~
+這個Wiki正在逐步完善~~，如果一些超鏈接點了但是沒有反應，說明咩狼正在摸鳳梨。~~
+
+大家新年快乐！ ~~爷爷你关注的Wiki更新了！~~
 
 ## 這是什麼
 這是一個為魔法金屬製作的拓展模組，建立于狼族聖殿世界觀進行開拓。<br />
